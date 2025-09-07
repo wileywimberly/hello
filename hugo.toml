@@ -1,0 +1,4 @@
+baseURL = 'https://wileywimberly.github.io/hello/'
+languageCode = 'en-us'
+title = 'Hello World'
+theme = 'ananke'

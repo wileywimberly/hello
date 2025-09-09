@@ -1,9 +1,9 @@
 +++
 date = '2025-09-07T19:23:42Z'
 draft = true
-title = 'Hello'
+title = 'Hi'
+featured_image = '/images/gohugo-default-sample-hero-image.jpg'
+omit_header_text = true
 +++
 
-## Greetings
-
-Hello. How's it going?
+How's it going?

@@ -1,6 +1,6 @@
 +++
 date = '2025-09-07T19:23:42Z'
-draft = true
+draft = false
 title = 'Hi'
 featured_image = '/images/gohugo-default-sample-hero-image.jpg'
 omit_header_text = true

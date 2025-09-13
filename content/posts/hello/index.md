@@ -8,6 +8,4 @@ omit_header_text = true
 
 How's it going?
 
-## Fix the image path
-
 ![Bryce Canyon National Park](/images/bryce-canyon.jpg)

@@ -1,6 +1,6 @@
 baseURL = 'https://wileywimberly.github.io/hello/'
 languageCode = 'en-us'
-title = 'Hello World'
+title = 'Hello'
 theme = 'hello'
 
 [params]
@@ -15,3 +15,6 @@ enableDefault = true
 
 [markup.goldmark.renderHooks.link]
 enableDefault = true
+
+[taxonomies]
+    tag = "tags"

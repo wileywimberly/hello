@@ -1,9 +1,8 @@
 +++
 date = '2025-09-07T19:23:42Z'
 draft = false
-title = 'Hello'
+title = 'Bryce Canyon'
+tags = ['Bryce Canyon', 'National Park', 'canyon']
 +++
-
-How's it going?
 
 ![Bryce Canyon National Park](/images/bryce-canyon.jpg)
